@@ -1,0 +1,1 @@
+You can go further into the island to find new areas and loot and mobs.

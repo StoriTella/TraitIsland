@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Base.md",
+                "file": "Gameplay/Gameplay.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Base.md",
+                "file": "Gameplay/Gameplay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Base.md",
+                "file": "Gameplay/Gameplay.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Base.md"
+                "file": "Gameplay/Gameplay.md"
               }
             }
           }
@@ -180,8 +180,11 @@
   "active": "6ae50eb0a52e64b4",
   "lastOpenFiles": [
     "Gameplay/Crafting.md",
-    "Gameplay/Combat.md",
     "Gameplay/Base.md",
+    "Gameplay/Gameplay.md",
+    "Gameplay/Combat.md",
+    "Gameplay/Exploring.md",
+    "Lore/Lore.md",
     "Traits/Weapons.md",
     "Traits/Tiles.md",
     "Traits/List Traits/Armor/Boots.md",
@@ -204,9 +207,6 @@
     "Traits/List Traits/Damage/Ice.md",
     "Traits/List Traits/Damage/Fire.md",
     "Traits/List Traits/Damage/Slash.md",
-    "Traits/List Traits/Damage/Bonk.md",
-    "Traits/List Traits/Damage/Create.md",
-    "Traits/List Traits/Pathing/Boomerang.md",
     "Traits/List Traits/Rarity",
     "Traits/List Traits/Size",
     "Traits/List Traits/Damage",
